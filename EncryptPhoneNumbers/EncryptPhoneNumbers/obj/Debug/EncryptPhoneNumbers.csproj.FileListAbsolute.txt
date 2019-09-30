@@ -1,0 +1,11 @@
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\obj\Debug\EncryptPhoneNumbers.csprojAssemblyReference.cache
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\obj\Debug\EncryptPhoneNumbers.csproj.CoreCompileInputs.cache
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\bin\Debug\EncryptPhoneNumbers.exe.config
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\bin\Debug\EncryptPhoneNumbers.exe
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\bin\Debug\EncryptPhoneNumbers.pdb
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\bin\Debug\DocumentFormat.OpenXml.dll
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\bin\Debug\System.IO.Packaging.dll
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\bin\Debug\DocumentFormat.OpenXml.xml
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\obj\Debug\EncryptPhoneNumbers.csproj.CopyComplete
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\obj\Debug\EncryptPhoneNumbers.exe
+C:\GitMTPPO\Testes\EncryptPhoneNumbers\EncryptPhoneNumbers\EncryptPhoneNumbers\obj\Debug\EncryptPhoneNumbers.pdb
