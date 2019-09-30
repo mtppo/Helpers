@@ -1,0 +1,7 @@
+C:\GitMTPPO\Testes\ConvercaoData\TesteConvercaoData\TesteConvercaoData\bin\Debug\TesteConvercaoData.exe.config
+C:\GitMTPPO\Testes\ConvercaoData\TesteConvercaoData\TesteConvercaoData\bin\Debug\TesteConvercaoData.exe
+C:\GitMTPPO\Testes\ConvercaoData\TesteConvercaoData\TesteConvercaoData\bin\Debug\TesteConvercaoData.pdb
+C:\GitMTPPO\Testes\ConvercaoData\TesteConvercaoData\TesteConvercaoData\obj\Debug\TesteConvercaoData.csprojAssemblyReference.cache
+C:\GitMTPPO\Testes\ConvercaoData\TesteConvercaoData\TesteConvercaoData\obj\Debug\TesteConvercaoData.csproj.CoreCompileInputs.cache
+C:\GitMTPPO\Testes\ConvercaoData\TesteConvercaoData\TesteConvercaoData\obj\Debug\TesteConvercaoData.exe
+C:\GitMTPPO\Testes\ConvercaoData\TesteConvercaoData\TesteConvercaoData\obj\Debug\TesteConvercaoData.pdb
